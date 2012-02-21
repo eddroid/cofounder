@@ -1,0 +1,176 @@
+Title Page:
+Help, I Need A Tech Co-Founder
+Introduction:
+Ed Toro
+PRISA Digital Americas
+Past startups: Brightcove, Scrapblog, Cyloop
+Current startups I'm "involved with": OrderTakr, DateLatte, LeggoFM, MyReviewLine
+Question for everyone: How many of you are starting a company and looking for a CTO?
+
+First things 1st:
+Will you be my CTO?
+I get this question a lot.
+
+No.
+No. I don't marry people I've just met.
+Short generic answer. Your mileage may vary.
+And that's it.. thanks for listening to my presentation. Send the next group in please.
+
+Just kidding:
+Face the facts: 
+- Lots of ideas, not very many capable executors.
+- There aren't a bunch of web developers sitting around bored waiting for someone with a good idea to come along and inspire them.
+- They have their own ideas.
+- They have highly sought-after skills and people willing to pay good money for what they do
+So let's dive a little deeper.
+
+What do you really want?
+
+Common answer:
+I want a CTO.
+
+Wrong
+- A CTO expects to be paid a C-level executive salary.
+- If you post a job listing asking for a CTO, you could be misleading people.
+You actually want a tech co-founder.
+
+Common response:
+But I'm a CEO. That means my first tech hire is the CTO.
+
+Nope
+- Rule of thumb: You're not a CEO until you start paying yourself a CEO's salary. Until then you're just a founder.
+- Realize you may not get there. Often the founder of a startup doesn't later become CEO when the company grows up. The skills required to run a startup are different from those required to run a small/medium/large business. (All well-known examples aside: Amazon, Apple, Facebook, Microsoft)
+- Why is it like this? This is just a part of the tech business culture. Other industries their own cultures:
+    e.g. The owner of a local restaurant or shop doesn't usually call himself a CEO. He's just a "small business owner".
+So let's rephrase your question.
+
+What do you really <strike>want</strike> need?
+
+Another common response:
+I need someone to handle all that "tech stuff" for me.
+
+Negative:
+If you're not clear on what a tech guy does, you're going to get ripped off. You'll have no way of knowing for sure that you're getting what you're paying for. You need to be specific.
+Here's a better question:
+
+Who are you?
+
+Case #1: You've got an idea and money and you need someone to build a website or mobile app for you.
+How many of you are in this category?
+
+You need:
+- You need a tech freelancer or development shop. Money goes in one end, website comes out the other.
+- Beware: You get what you pay for. There are many lowball developers who will make you a crappy site.
+- Lucky for you, it's easy to find people. Google, network, online job boards, oDesk and Elance.
+I'm sure there are a ton of people around here and at all the events this week who would be willing to give you recommendations.
+
+Case #2: You've got an idea and no money and you need someone who works cheaply or for equity.
+How many of you are in this category?
+
+Have you considered cheaper offshore tech freelancers?
+- Buyer beware.
+- Elance, oDesk, etc.
+- More tips on this later.
+Ask around here at BarCamp. You'll find recommendations.
+I don't usually recommend offshore help. It's shark-infested waters. Most of the good ones are "secret", locked behind some gobetween who delivers them regular work in exchange for exclusivity and/or a cut off their rate. The rest have questionable quality.
+Another piece of advice for you case #2ers...
+
+Go on "dates". 
+- Apperance: Work on your business pitch (and your actual appearance couldn't hurt)
+- Location: Go to networking events and conferences. Go to where the tech people are.
+- Strategy: Mingle with tech people. Gauge interest in your idea. Adjust your pitch. Repeat.
+- Get married: Woo engineers. Convince them that you've got a winning idea and they should work for equity to get a piece of the action.
+
+A note on what I mean by "pitch an engineer":
+You need to "pitch" to a potential tech co-founder the same way you pitch to an investor. You're asking a talented, experienced, gainfully employed engineer to give up his salary and benefits (or freelance pipeline) to help you fulfill your vision. That can cost the tech co-founder as much personally as a seed/angel investment. Time is money, and their time is valuable.
+Now on to...
+
+Case #3: You have an idea, no cash, and no one is interested in your equity (not yet, of course).
+It's kind of a catch-22. No one is going to be interested until they see something solid, you can't produce something until you get help from someone who's interested.
+How many of your are in this boat?
+
+You're screwed.
+Whoops, how did that get in there. I mean...
+
+whoops... I mean:
+You're DIY.
+Yeah, that's it. You'll have to "do it yourself". You need a "tech co-founder in a box".
+
+So let's get to the point here:
+If you don't have a tech co-founder, what's the minimum amount of information you need to "get by"? What are the pieces that come in the "tech co-founder in a box"?
+
+Lean Startup
+It's a product development methodology, a popular book, and a blog. Read about it. You'll learn:
+- You shouldn't waste a lot of time and money building everything you envision.
+- You'll learn how to measure how well your business is doing.
+- You'll learn to quickly find out when your idea isn't working, then change it.
+piece #2:
+
+Agile
+It's partially a project management methodology. There are some basic principles and a few different implementations: Scrum, KanBan, XP, etc. I've done presentations on this topic at my last 3 BarCamps, so you're welcome to talk to me about it later. It'll teach you:
+- To bridge the gap between your business requirements and what your technology needs.
+- To estimate and plan projects methodically and confidently instead of with promises, negotiations, and "gut feelings".
+- To manage tech teams.
+NEXT:
+
+Learn Some Code
+Emphasis on the "Some".
+I'm not saying get a degree in Computer Science. I'm just saying learn some concepts. With some basic terminology under your belt, it'll be a lot easier to explain what you want to a tech guy. (Tell José the lawyer.)
+Here are a list of sites that have FREE code classes (with an option to PAY for more): some are video, some are just text. All come in bite-sized pieces and all are worth your time. You don't have to be using a particular technology in your site (say: Python, Ruby on Rails, etc.) to get some value out of learning the basics of how they work.
+
+Make a website (any website)
+- Learn how to register a domain: GoDaddy, NameCheap, eNom
+- Play with a site builder: Flavors.me, Wix.com, Webs.com, 1and1.com, weebly.com. drag+drop, WYSIWYG
+- Play with a CMS: WordPress, Drupal, Joomla. Learn how to build a site with plugins, like lego pieces.
+- Figure out the basics of registering and hosting your own simple site.
+Secret: Some people can build their whole startup on a CMS and not have to touch a single line of code. Just point-and-click your way through.
+
+Learn some "cloud"ology: IAAS, PAAS, SAAS
+- IAAS: Amazon, RackSpace. Machines + IT people.
+- PAAS: Google App Engine, EngineYard, Heroku, Amazon Premium Support. IAAS + people to help you with your specific app. Installing software, configuring it for you, monitoring, etc.
+- SAAS: Amazon Web Services, NewRelic, Twilio, Tropo, Airbrake, PubNub, Postmark... and you? Services that implement features of your site.
+It's like layers of an onion. Each layer can build on the one before it. At the bottom is basic hardware (not mentioned because no one buys servers and hosts their own stuff anymore), hardware + IT people (IAAS), hardware + IT people + application support (PAAS), and whole pieces of your site (SAAS).
+Most of the services are priced "on demand". It's cheap to get started, and ramps up as you get more traction.
+Note that a tech co-founder who's only an expert on the bottom level isn't going to know enough to get you where you need to go. The "cloud" has changed the rules for running a startup and some people haven't caught on yet. You don't have to understand how it works - just know what's available and what these services can give you.
+And finally...
+
+Delegate:
+- As you go along, write down all the specific tasks you're doing, especially stuff that you don't want to do anymore or that you're not good at.
+- All the tech things on your task list is your answer to the question "What does a tech co-founder do?". That's what you really need. That how a little DIY can put you ahead of the game. You can ease your way into a co-founder little-by-little.
+- Delegate everything as soon as you can. (4-hr work week?)
+You can't do it all. You can't do it alone. But you may not realize that until you try and fail a few times. As soon as you can afford it, delegate tasks to people. The people you hire may not be tech co-founders, but they'll be cheaper, and you'll understand what they're doing.
+
+FAQ Time!
+Here are some more questions I get all the time.
+
+I've been working with a cheap offshore team, but I'm not satisfied with the experience.
+This needs a little more clarification
+
+- Unhappy with the process?
+  - Hard to communicate. Ideas get lost in translation. Big gaps of radio silence that make you feel uncomfortable.
+  - Go agile. Try to implement an agile process yourself.
+  - Hire an agile project manager to manage the team for you. They'll stay on top of your team, give you daily/weekly status reports, and make sure everything is on track.
+  - Much cheaper than a CTO/tech co-founder. It could be a part-time job.
+  
+- Unhappy with the quality of the code?
+  - Look at you being all judgmental about code quality! Have you learned some code recently?
+  - Pay a good freelancer/shop (one that's outside your price range) to review the code. Don't worry if it sucks (all code that isn't "theirs" sucks).  Can it get you where you're going (scale & cost)? In other words, is it viable?
+  - Be "Lean". Code quality may not matter in the first version. It's a draft/prototype/demo/hack (even if it's released to the public). Does it demonstrate the viability of a business concept?  
+If the site "works", code quality doesn't (usually) matter in the beginning. The first version of your site is supposed to be terrible.
+You're just testing a business idea. A perfectly executed bad idea is just as useless (and more expensive than) a poorly executed good one. (say that again?)
+next question:
+
+How do I pick a freelancer or dev shop?
+- Don't hire a recruiter. You can spam LinkedIn all by yourself. Are there any tech recruiters in the house? Recruiters are mindless drones. They understand startup culture less than you do.
+- Social recommendations: Twitter, GitHub, StackOverflow. Get recoomendations from your social network.
+- Tech events and conferences (like this one): MiamiTechEvents.com
+- Once you know what you need and you know agile, freelance websites seem less shark-infested. Elance, oDesk.
+and finally,
+- Find a startup-friendly development shop. They understand Lean and Agile. They can teach you to be a better business. They're expensive and they're worth it. Hashrocket (Jax Beach), EnvyLabs (Orlando), New Frontier Nomads (Coconut Grove).
+- They'll train your devs.
+
+Thanks
+
+
+
+
